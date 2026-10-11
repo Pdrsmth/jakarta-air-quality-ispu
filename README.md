@@ -34,7 +34,10 @@ Planned: SQL aggregation → Power BI dashboard → 10-page portfolio deck.
 | File | Description |
 |---|---|
 | `ISPU_JAKARTA.ipynb` | Full analysis notebook (cleaning + EDA) |
-| `ispu_jakarta_eda.png` | 4-panel EDA chart |
+| `ispu_jakarta_eda.png` | 4-panel EDA chart (Python/matplotlib) |
+| `ispu_analysis.sql` | 4 SQL queries (MySQL) — cross-validated against pandas |
+| `ispu_jakarta_dashboard.pbix` | Power BI dashboard (3 KPI cards + bar/donut/line + slicer) |
+| `dashboard-ispu-jakarta.pdf` | Dashboard PDF export |
 | `data/ispu_jakarta.xls` | Raw dataset (as downloaded) |
 
 ## Data Source
