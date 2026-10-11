@@ -38,6 +38,7 @@ Planned: SQL aggregation → Power BI dashboard → 10-page portfolio deck.
 | `ispu_analysis.sql` | 4 SQL queries (MySQL) — cross-validated against pandas |
 | `ispu_jakarta_dashboard.pbix` | Power BI dashboard (3 KPI cards + bar/donut/line + slicer) |
 | `dashboard-ispu-jakarta.pdf` | Dashboard PDF export |
+| `Portofolio_ISPU_Jakarta.pdf` | Portfolio deck (10 pages, Canva) |
 | `data/ispu_jakarta.xls` | Raw dataset (as downloaded) |
 
 ## Data Source
